@@ -50,7 +50,7 @@ merged_data <- merged_data %>%
 
 print(merged_data)
 
-
+#exporting merged_data as an excel file.
 library(writexl)
 write_xlsx(merged_data, "merged_data.xlsx")
 
