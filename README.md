@@ -1,0 +1,9 @@
+ Main objectives for this project are:
+• To deploy business analytics on a real-world business dataset.
+• To create a functioning R code using R Studio.
+• To make appropriate judgments on what R libraries and data analytics
+techniques to use.
+• To present high-level information and insights derived from low-level (raw)
+data and present these to help decision makers.
+• To learn how to work in a team composed of people with diverse background and
+skills (and personalities)
