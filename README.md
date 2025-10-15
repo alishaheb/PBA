@@ -11,4 +11,8 @@ In addition,we implementing several analytic
 methods/techniques/algorithms, evaluating them, comparing the effectiveness of selected approaches.
 
 
+
+
+
+
 ![schema](https://github.com/RomilRajRoy/PBA/blob/598ecef059609ee9e7b8e5ba3ecb2cb2ff2b24a5/schema.png)
