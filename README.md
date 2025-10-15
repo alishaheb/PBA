@@ -9,7 +9,14 @@ data and present these to help decision makers.
 skills (and personalities)
 In addition,we implementing several analytic
 methods/techniques/algorithms, evaluating them, comparing the effectiveness of selected approaches.
+Dataset:## 📚 Data Source
 
+The data used for this project is the **Patient Survival After One Year of Treatment** dataset, sourced from Kaggle.
+
+**Reference:**
+Rishav Sharma (2020). Patient Survival After One Year of Treatment. Kaggle. Retrieved from: https://www.kaggle.com/datasets/rsrishav/patient-survival-after-one-year-of-treatment
+
+ R script for data preprocessing, analysis, and model development.
 
 
 
