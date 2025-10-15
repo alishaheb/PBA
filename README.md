@@ -7,3 +7,5 @@ techniques to use.
 data and present these to help decision makers.
 • To learn how to work in a team composed of people with diverse background and
 skills (and personalities)
+In addition,we implementing several analytic
+methods/techniques/algorithms, evaluating them, comparing the effectiveness of selected approaches.
