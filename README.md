@@ -9,4 +9,4 @@ data and present these to help decision makers.
 skills (and personalities)
 In addition,we implementing several analytic
 methods/techniques/algorithms, evaluating them, comparing the effectiveness of selected approaches.
-![schema](https://github.com/RomilRajRoy/PBA/blob/5907e7afb150de90afef6b47d632a377d23bc424/Pba.png)
+![schema](https://github.com/RomilRajRoy/PBA/blob/5907e7afb150de90afef6b47d632a377d23bc424/Pba.drawio.png)
